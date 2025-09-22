@@ -2,9 +2,9 @@
 
 # FULLSTACK Assignment
 
-## 1 Live Character Counter for Textarea 
+## 1 ProductCard Component Using Props 
 *Output:*  
-![Live Character Counter for Textarea](https://github.com/user-attachments/assets/7481bf0d-8c0f-4e3a-b7ce-4b7f9ede985e)
+![ProductCard Component Using Props](https://github.com/user-attachments/assets/7481bf0d-8c0f-4e3a-b7ce-4b7f9ede985e)
 ---
 
 ## 2 Library Management UI with Search, Add, and Remove Book Functionality  
